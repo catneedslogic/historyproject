@@ -1,2 +1,2 @@
 # historyproject
-## This is for github, a title for it to read, useless right
+## This is for github, a title for it to read. Useless, right?

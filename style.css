@@ -7,6 +7,12 @@ body{
     color: black; /* Changes normal text color */
 }
 
+body h1{
+    font-family: 'EB Garamond', serif;
+    text-align: center;
+    color: black;
+}
+
 .timeline{
     position: relative;
     margin: 50px auto;
